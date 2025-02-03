@@ -44,7 +44,7 @@ The research is divided into phases, ensuring a structured and collaborative app
    - Source peer-reviewed articles, industry reports, and whitepapers.
 
 ### 2. **Writing and Review Phase**
-   - Use LaTeX for scientific formatting and Git for version control.
+   - Use Git for version control.
    - Peer-review sections focusing on technical accuracy, academic integrity, and logical flow.
 
 ### 3. **Final Integration and Editing**
