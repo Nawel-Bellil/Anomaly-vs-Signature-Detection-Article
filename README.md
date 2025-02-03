@@ -1,4 +1,4 @@
-# README - Cybersecurity Threat Detection: A Comparative Analysis of IDS Detection Paradigms
+# Cybersecurity Threat Detection: A Comparative Analysis of IDS Detection Paradigms
 
 ## Overview
 
