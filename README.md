@@ -62,11 +62,3 @@ We emphasize a collaborative writing approach using version control tools (e.g.,
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository, make changes, and submit a pull request. Ensure that your changes are well-documented and align with the overall technical tone of the article.
-
-## License
-
-This document is provided under the [Insert License Name] license. Please ensure proper attribution if using or referencing this work.
-
----
-
-Feel free to reach out for any questions or clarifications related to the content or collaboration.
